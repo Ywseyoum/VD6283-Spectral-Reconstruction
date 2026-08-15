@@ -1,0 +1,5 @@
+Channel,Wavelength,Response
+Blue,400,0.80
+Blue,401,0.82
+Green,400,0.10
+Green,401,0.11
