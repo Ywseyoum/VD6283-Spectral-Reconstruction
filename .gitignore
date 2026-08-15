@@ -7,10 +7,15 @@
 *.mlappinstall
 *.prj
 
-# MATLAB project/cache folders
+# MATLAB project/cache/state folders
 slprj/
 codegen/
 *.cache
+Framework_User_State.mat
+
+# Generated reconstruction outputs
+Spectral_Reconstruction_Results_*/
+Predicted_Spectra_*.csv
 
 # Large or potentially restricted research data
 *.mat
